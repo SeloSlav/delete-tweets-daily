@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/delete-tweets-daily.iml" filepath="$PROJECT_DIR$/delete-tweets-daily.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeleteTweetsDaily.iml" filepath="$PROJECT_DIR$/DeleteTweetsDaily.iml" />
     </modules>
   </component>
 </project>
